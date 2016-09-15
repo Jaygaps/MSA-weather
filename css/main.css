@@ -28,8 +28,9 @@ body
 .button1 {
     background-color: white;
     color: black;
-    border: 3px solid #4CAF50;
+    border: 1.5px solid #4CAF50;
     display:inline-block;
+    font-family: verdana;
 }
 
 .button1:hover {
@@ -41,7 +42,7 @@ body
 .button2 {
     background-color: white;
     color: black;
-    border: 3px solid #008CBA;
+    border: 1.5px solid #008CBA;
     display:inline-block;
 }
 
