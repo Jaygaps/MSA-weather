@@ -44,6 +44,7 @@ body
     color: black;
     border: 1.5px solid #008CBA;
     display:inline-block;
+    font-family: verdana;
 }
 
 .button2:hover {
